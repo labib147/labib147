@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dirambora&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dirambora&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=labib147&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=labib147&langs_count=5&theme=tokyonight)]()
 
