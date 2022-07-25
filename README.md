@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=labib147&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=labib147&langs_count=5&theme=tokyonight)]()
 
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=labib147&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
