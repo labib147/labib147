@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 
 
 <br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=labib147&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br>
