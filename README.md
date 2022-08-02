@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labib147&layout=compact&langs_count=10&theme=tokyonight)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=labib147&count_private=false&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=labib147&langs_count=5&theme=tokyonight)]()
+
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=labib147&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=labib147&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=labib147&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labib147&layout=compact&hide=jupyter%20notebook&langs_count=10&theme=tokyonight)
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=labib147&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanjinAlam&layout=compact&hide=jupyter%20notebook&langs_count=20&theme=blue-green)]
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=labib147&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
