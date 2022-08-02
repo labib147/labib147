@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=labib147&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=labib147&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labib147&layout=compact&hide=jupyter%20notebook&langs_count=10&theme=tokyonight)
 
 <br>
 
